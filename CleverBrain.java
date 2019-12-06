@@ -11,7 +11,7 @@ import cs5044.tetris.Piece;
  * that drops down into the selected place. Each time the board score is generated
  * and compared with the best score. By the such way the best move is selected. 
  *
- * @author
+ * @author Tanner Vogan
  */
 public class CleverBrain implements Brain {
 	
